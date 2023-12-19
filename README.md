@@ -17,8 +17,8 @@ Here are the 2 main projects I'm working on now:
 - [**Koya**](https://koya.gg): I'm also part of the development team of **Koya**, created by [@Koyamie](https://github.com/Koyamie), a discord bot now present on more than 2 million servers for a few million daily users.  
 ![Discord Bots](https://top.gg/api/widget/servers/276060004262477825.svg)
 ____
-I mainly code my projects in JavaScript, and more recently in C. 
+I mainly code my projects in JavaScript, TS, and more recently in C. 
 
 ## 📱 Contacting Me
-If you have any questions, want to contact me or anything else, I'm available on Discord (A1ex#8151), or by mail (in my GitHub bio).   
+If you have any questions, want to contact me or anything else, I'm available on Discord (a6ex), or by mail (in my GitHub bio).   
 However I don't guarantee any answer because I'm too lazy to answer.
