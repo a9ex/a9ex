@@ -1,24 +1,39 @@
-# Hi 🍍 !
+# 🌟 Welcome to My GitHub!  
 
+🍍 Hi, I’m **A1ex**!  
+**Software Engineer** since 2023 in a cool scale-up, a computer science student in parallel, and a fan of building cool projects.  
 
-🍍 Hey, I'm A1ex and I'm a CS Student. 🍍
+---
 
+## 🎯 About Me  
+I first dived into development nearly 8 years ago while creating my very first Discord bot.  
+Since then, I’ve been crafting projects, experimenting with self-hosting (because let’s face it, it’s awesome – shoutout to Vaultwarden, Nextcloud and much more), and exploring cool tech ideas.  
 
-I discovered development almost 5 years ago when I wanted to create a Discord bot.  
-Since then, I've been doing projects, self-hosting (because it's cool, especially Vaultwarden and Nextcloud) and other cool stuff.
+---
 
+## 📁 Active Projects  
+Here are the main projects I’m currently working on:  
 
-## 📁 My Active Projects
-Here are the 2 main projects I'm working on now:  
+### [**Koya**](https://koya.gg)  
+I’m part of the development team for **Koya**, a popular Discord bot created by [@Koyamie](https://github.com/Koyamie).  
+Koya is used on more than **3 million servers** and serves millions of users daily.  
+![Discord Bots](https://top.gg/api/widget/servers/276060004262477825.svg)
 
-- [**Monika**](https://monika.gg): My main activity is to maintain the development of my Discord bot I created, **Monika**, created 4 years ago to introduce myself to development, and which is now on more than 10k servers.  
+### [**Monika**](https://monika.gg)  
+I maintain **Monika**, my personal Discord bot that started as my entry point into development 7 years ago.  
+Today, Monika is active on over **10,000 servers**. Though I haven’t actively developed it for a while due to time constraints, I make sure it keeps running smoothly.  
 ![Discord Bots](https://top.gg/api/widget/servers/340476335279570945.svg)
 
-- [**Koya**](https://koya.gg): I'm also part of the development team of **Koya**, created by [@Koyamie](https://github.com/Koyamie), a discord bot now present on more than 2 million servers for a few million daily users.  
-![Discord Bots](https://top.gg/api/widget/servers/276060004262477825.svg)
-____
-I mainly code my projects in JavaScript, TS, and more recently in C. 
+---
 
-## 📱 Contacting Me
-If you have any questions, want to contact me or anything else, I'm available on Discord (a6ex), or by mail (in my GitHub bio).   
-However I don't guarantee any answer because I'm too lazy to answer.
+## 🛠️ My Tech Stack  
+I primarily develop in **JavaScript** and **TypeScript**, and I’ve been exploring **C** & **CPP** recently. Always open to learning new tools and languages to expand my skill set!
+
+---
+
+## 📱 How to Reach Me  
+If you’d like to get in touch, feel free to:  
+- **Discord**: a6ex  
+- **Email**: Check my GitHub bio!  
+
+⚠️ Quick heads-up: Replies might take a while – I’m sometimes too lazy to respond right away.
