@@ -1,6 +1,6 @@
-# 🌟 Welcome to My GitHub!  
+# 🌟 Hello hello
 
-🍍 Hi, I’m **A1ex**!  
+🍍 Hi, I’m **A1ex**  
 **Software Engineer** since 2023 in a cool scale-up, a computer science student in parallel, and a fan of building cool projects.  
 
 ---
